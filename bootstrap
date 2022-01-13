@@ -4,4 +4,4 @@ echo "123abc"
 ls -al
 echo "123abc"
 cd /app
-./proxy https -p :$PORT -t ws --local-ws-password pass
+./proxy https -p :$PORT -t ws --local-ws-123abc pass
